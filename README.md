@@ -1,6 +1,6 @@
-# AE$^2$-Nets:Autoencoder in Autoencoder Networks for Multi-View Representation Learning
+# AE$^2$-Nets:Autoencoder in Autoencoder Networks
 
-A TensorFlow implementation of *AE2-Nets:Autoencoder in Autoencoder Networks for Multi-View Representation Learning*
+A TensorFlow implementation of the paper [*AE2-Nets:Autoencoder in Autoencoder Networks*](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhang_AE2-Nets_Autoencoder_in_Autoencoder_Networks_CVPR_2019_paper.html), CVPR'2019
 
 ## Requirements
 
@@ -17,7 +17,7 @@ Learning on data represented with multiple views (e.g.,multiple types of descrip
 
 ## Example Experiments
 
-This repository contains a subset of the experiments mentioned in the [paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhang_AE2-Nets_Autoencoder_in_Autoencoder_Networks_CVPR_2019_paper.html).
+This repository contains a subset of the experiments mentioned in the paper.
 
 ## Testing
 
